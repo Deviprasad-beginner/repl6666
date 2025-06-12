@@ -1,0 +1,7 @@
+Fix critical issue preventing the application from starting correctly
+
+Upgrade drizzle-orm to 0.39.3, switch from neon-serverless to neon-http, and remove websocket configuration to resolve app startup failure.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 7f4c1427-0f97-4296-8a46-adea4f1adeb5
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/d8444819-6f9b-4b62-8108-f162c51461da/f80de03a-be86-4710-ae75-65516a937803.jpg
